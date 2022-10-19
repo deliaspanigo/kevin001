@@ -1,0 +1,50 @@
+Package: kevin001
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Imports:
+	data.table (>= 1.9.4),
+	dplyr,
+	ggplot2,
+  spatialreg,
+  concaveman,
+  Rcpp,
+  ade4,
+  e1071,
+  gstat,
+  sp,
+  mapview,
+  tmap,
+  automap,
+  RColorBrewer,
+  rgdal,
+  spdep,
+  fields,
+  tcltk,
+  raster,
+  data.table,
+  MASS,
+  pdp,
+  caret,
+  SpatialPack,
+  interp,
+  akima,
+  distances,
+  fclust,
+  cluster,
+  randomForest,
+  ggpubr,
+  stringr,
+  gbm,
+  clhs,
+  leafsync,
+  leafpop,
+  spatstat
+Authors@R: 
+    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: What the package does (one paragraph).
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
